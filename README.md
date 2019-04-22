@@ -33,8 +33,10 @@ Why this is useful ?
 
 - Used unsupervised methods like KMeans to cluster the same view images together . Feed the features from ResNet50 into KMeans clustering algorithm to cluster the sameview images together .  ResNet was performing better as compared to different architectures . 
 
+- 
 ![alt text](sample4.png "Comparasion between ResNet and VGG16 based on silhouette score")
 
+- 
 ![alt text](sample6.png "Same Views of Hook type footwear")
 
 - Trained VGG16 on best and no best views of a particluar type of footwears  . 
