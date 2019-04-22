@@ -19,7 +19,7 @@ Why this is useful ?
 
 ![alt text](sample2.png "Closure Types")
 
-##Example :
+## Example :
 
 - 
 ![alt text](sample1.png "Lace-Up")
@@ -35,7 +35,7 @@ Why this is useful ?
 
 ![alt text](sample4.png "Comparasion between ResNet and VGG16 based on silhouette score")
 
-![alt text](sample5.png "Same Views of Hook type footwear")
+![alt text](sample6.png "Same Views of Hook type footwear")
 
 - Trained VGG16 on best and no best views of a particluar type of footwears  . 
 
